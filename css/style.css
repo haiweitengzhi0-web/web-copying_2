@@ -16,8 +16,18 @@ body {
   font-family: ;
   color: #333;
   line-height: 1.7;
-}
-.wrapper {
-  width: 60%;
+  width: 1200px;
   margin: 0 auto;
+}
+header h1 {
+  padding: 20px 16px;
+}
+.logo a {
+  display: inline-block;
+}
+.logo a img {
+  display: block;
+}
+h1 {
+  line-height: 1;
 }
