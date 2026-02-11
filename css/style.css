@@ -13,7 +13,48 @@ html, body {
   padding: 0;
 }
 body {
+  font-size: 1rem;
   font-family: ;
   color: #333;
   line-height: 1.7;
+<<<<<<< HEAD
 }
+=======
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+header h1 {
+  padding: 20px 16px;
+}
+.logo a {
+  display: inline-block;
+}
+.logo a img {
+  display: block;
+}
+h1 {
+  line-height: 1;
+}
+nav {
+  background-color: #000;
+  width: 100vw;
+  margin: 0 calc(50% - 50vw);
+}
+.menu li a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.menu {
+  display: inline-block;
+  display: flex;
+}
+.menu li {
+  padding: 10px 60px 10px 0;
+  list-style: none;
+  font-size: 0.875rem;
+}
+.menu {
+  padding-left: 15px;
+}
+>>>>>>> 4b1c582aba06eac213e313ddea4691e491fde0b0
