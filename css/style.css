@@ -55,13 +55,25 @@ body {
   justify-content: center;
 }
     /* trip end */
-    /* topic */
+    /* main topic */
 #topic img {
   width: 100%;
+  height: auto;
+}
+
+    /* info end */
+.info {
+  
+}
+#writer img {
+  max-width: 100%;
+  height: auto;
+}
+#ranking img {
+  max-width: 100%;
   height: auto;
 }
     /* content */
 .content {
   display: flex;
 }
-
