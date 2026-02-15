@@ -77,3 +77,14 @@ body {
 .content {
   display: flex;
 }
+    /* company */
+#company {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 30px;
+}
+.wrapper .content {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 1200px;
+}
